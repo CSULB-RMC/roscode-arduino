@@ -1,0 +1,3 @@
+[submodule "teensy-codebase"]
+	path = teensy-codebase
+	url = https://github.com/CSULB-RMC/teensy-codebase.git
